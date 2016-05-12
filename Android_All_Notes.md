@@ -26,8 +26,15 @@ https://github.com/astuetz/PagerSlidingTabStrip  已使用
 https://github.com/jfeinstein10/SlidingMenu  已使用
 
 
+https://github.com/oguzbilgener/CircularFloatingActionMenu  已使用
 
+https://github.com/michaldrabik/TapBarMenu  酷炫
 
+https://github.com/saurabharora90/MaterialArcMenu
+
+https://github.com/siyamed/android-satellite-menu
+
+https://github.com/sephiroth74/android-floating-action-menu
 
 
 - ListView
@@ -87,7 +94,7 @@ https://github.com/hongyangAndroid/okhttp-utils 已使用
 
 https://github.com/pengjianbo/OkHttpFinal
 
-
+https://github.com/jeasonlzy0216/OkHttpUtils
 
 
 
@@ -103,7 +110,11 @@ https://github.com/square/picasso
 https://github.com/facebook/fresco
 
 
+- 下拉选择
 
+https://github.com/dongjunkun/DropDownMenu
+
+https://github.com/opticalix/android-dropdown-menu
 
 
 - 下拉刷新
@@ -112,15 +123,21 @@ https://github.com/chrisbanes/Android-PullToRefresh  已使用
 
 https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh
 
+https://github.com/android-cjj/Android-MaterialRefreshLayout
+
+https://github.com/android-cjj/BeautifulRefreshLayout
+
+https://github.com/baoyongzhang/android-PullRefreshLayout
 
 
+- 搜索
+https://github.com/android-cjj/JJSearchViewAnim
 
 
+- 选择器
+https://github.com/zzz40500/AndroidSweetSheet
 
-
-
-
-
+https://github.com/baoyongzhang/android-ActionSheet
 
 
 - 滑动返回
@@ -176,6 +193,7 @@ https://github.com/boxme/SquareCamera
 
 https://github.com/Yalantis/CameraModule
 
+相册图库
 
 https://github.com/pengjianbo/GalleryFinal
 
@@ -186,6 +204,8 @@ https://github.com/Dreddik/AndroidTouchGallery
 https://github.com/kymjs/KJGallery
 
 https://github.com/wangeason/MultiPhotoPicker
+
+https://github.com/jeasonlzy0216/ImagePicker
 
 
 
@@ -518,7 +538,8 @@ http://www.ciaapp.cn/     短信验证码替代，用户无感知：闪呼方案
 极客学院培训班（线上培训班各大方向学费基本5K左右）
 黑马程序员http://www.itheima.com/（传智播客http://www.itcast.cn/线下培训 分基础班和就业班 学费8K-1W不等 不包括住宿和生活消费）
 麦子学院http://www.maiziedu.com（线上资源按课程收费)
-
+菜鸟窝
+http://www.cniao5.com/
 其他
 http://www.jisuanke.com/
 
