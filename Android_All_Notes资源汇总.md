@@ -542,8 +542,8 @@ http://www.ciaapp.cn/     短信验证码替代，用户无感知：闪呼方案
 http://www.cniao5.com/
 其他
 http://www.jisuanke.com/
-
-
+千峰教育
+http://www.mobiletrain.org/lecture/video/
 
 # 软件工具 #
 
@@ -613,10 +613,17 @@ https://android-arsenal.com/free
 
 http://www.appance.com/category/android/
 
-
+http://www.akaifa.com/
 
 # 开发教程 #
+
+http://beartung.github.io/rockwithandroid/
+
 http://www.runoob.com/w3cnote/android-tutorial-contents.html
+
+http://www.yiibai.com/android/
+
+http://hukai.me/android-training-course-in-chinese/
 
 
 # 博客 #
