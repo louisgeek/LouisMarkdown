@@ -36,6 +36,10 @@ https://github.com/siyamed/android-satellite-menu
 
 https://github.com/sephiroth74/android-floating-action-menu
 
+https://github.com/brucetoo/PinterestView
+
+https://github.com/Bossyao168/RotateMenu
+
 
 - ListView
 
@@ -49,7 +53,7 @@ https://github.com/JimiSmith/PinnedHeaderListView
 https://github.com/singwhatiwanna/PinnedHeaderExpandableListView
 
 
-
+https://github.com/ragunathjawahar/simple-section-adapter
 
 
 
@@ -115,6 +119,8 @@ https://github.com/facebook/fresco
 https://github.com/dongjunkun/DropDownMenu
 
 https://github.com/opticalix/android-dropdown-menu
+
+https://github.com/JayFang1993/DropDownMenu
 
 
 - 下拉刷新
@@ -280,6 +286,9 @@ https://github.com/florent37/MaterialViewPager
 
 https://github.com/afollestad/material-dialogs
 
+
+-Dialog
+https://github.com/pedant/sweet-alert-dialog
 
 
 
@@ -707,6 +716,15 @@ https://crp.aliyun.com
 https://coding.net/
 
 
+view标记  (imageview 斜标签 tag)
+
+https://github.com/linger1216/labelview
+
+https://github.com/wujingchao/SimpleTagImageView
+
+https://github.com/H07000223/FlycoLabelView
+
+https://github.com/shts/TriangleLabelView
 
 
 
